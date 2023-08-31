@@ -12,7 +12,9 @@ For this class, basic knowledge of artificial intelligence modelling and underst
 ## 3. Course Format
 
 Lecture	60%
+
 Discussion/Presentation 30%
+
 Experiment/Practicum 10%
 
 In this class, lectures on introduction to brain imaging data, especially structural MRI data, and processing of structural MRI data are given, and then students actually develop structural MRI-based artificial intelligence models and present and discuss the performance and interpretation of the developed models.
@@ -26,6 +28,7 @@ Through this class, students understand methods for processing structural MRI da
 ## 5. Evaluation System
 
 Presentation 90%
+
 Participation 10%
 
 The development process and results of structural MRI-based artificial intelligence models for three topics are evaluated through presentation and discussion.
